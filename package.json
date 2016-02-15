@@ -1,0 +1,19 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "Some api test stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gingters/ubiquitous-octo-sniffle.git"
+  },
+  "author": "Sebastian Gingter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gingters/ubiquitous-octo-sniffle/issues"
+  },
+  "homepage": "https://github.com/gingters/ubiquitous-octo-sniffle#readme"
+}
